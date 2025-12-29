@@ -2,8 +2,7 @@
 
 # Introduction
 
-This document explains the design and usage of our virtual filesystem implementation.
-We also discuss the problems that occured while translating to java and show the functionality of our functions.
+This repository is based on a project at University of Zurich, Department of Informatics in Fall Term 25. The task was to design a virtual filesystem in two programming languages. The project was originally hosted on GitLab and is has later been transfered to GitHub. This README File gives detailed explanations about the setup and the design of the implementation as well as difficulties that occurred during the process. 
 
 # Explanations
 
